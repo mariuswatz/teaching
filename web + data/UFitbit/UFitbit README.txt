@@ -4,8 +4,8 @@ unlekker.data.fitbit - Marius Watz, 2013
 GitHub: https://github.com/mariuswatz/teaching
 
 Facilitates downloading Fitbit intraday data not available through
-the public Fitbit API. This code is built on top of Clay Gregory's jFitbit 
-Java library: 
+the public Fitbit API. This code is built on top of Clay Gregory's 
+jFitbit Java library: 
 
 	https://github.com/claygregory/jfitbit
 

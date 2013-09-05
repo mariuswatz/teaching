@@ -2,6 +2,12 @@
 http://workshop.evolutionzone.com/
 http://github.com/mariuswatz/teaching
 
+NOTE: This scraper was created for the Pinterest UI that was
+current in Jan 2013. It might need updating to deal with any
+subsequent changes in the Pinterest HTML/CSS design.
+
+--
+
 Basic scraping of images + pin info from Pinterest
 using JSoup (http://jsoup.org). Downloads pin info and 
 images by crawling a profile page and setting up downloads
